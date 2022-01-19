@@ -1,5 +1,6 @@
 First launch
 No russian language
+commit completed
 Changed fixed
 Ok, lets work
 five row
